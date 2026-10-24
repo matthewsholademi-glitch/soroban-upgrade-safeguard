@@ -14,3 +14,9 @@ bindings/python/**/__pycache__/
 bindings/python/.pytest_cache/
 bindings/node/*.node
 bindings/node/node_modules/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+config.bat
+node_modules
